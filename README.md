@@ -25,11 +25,14 @@ Looking for Software Engineering, Full-stack developer full-time roles.
 ![Bash](https://img.shields.io/badge/Bash-Proficient-orange?logo=gnu%20bash&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-Proficient-orange)
 ![Docker](https://img.shields.io/badge/Docker-Familiar%20with-orange?logo=docker&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-Exposure%20to-orange?logo=jupyter&logoColor=white)
 
-#### Frameworks 📚
+#### Libraries / Frameworks 📚
+![Discord.py](https://img.shields.io/badge/Discord.py-Familiar%20with-green?logo=discord&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Familiar%20with-green?logo=flask&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-Exposure%20to-green?logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-Exposure%20to-green?logo=react&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-Exposure%20to-green?logo=pandas&logoColor=white)
 
 #### Environments 🌍
 ![Windows](https://img.shields.io/badge/Windows-Daily%20Driver-lightgrey?logo=windows&logoColor=white)
