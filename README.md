@@ -2,7 +2,7 @@
 
 I'm studying Computer Science at [NJIT](https://www.njit.edu) and graduating in Spring 2021!
 
-Looking for Software Engineering, Full-stack developer full-time roles.
+Looking for full-time Software Engineering and Full-stack Developer roles.
 
 #### Links 🔗
 <p>
