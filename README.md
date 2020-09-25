@@ -15,6 +15,8 @@ Looking for full-time Software Engineering and Full-stack Developer roles.
 ![Python](https://img.shields.io/badge/Python-Daily%20Driver-blue?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Proficient-blue?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-blue?logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Familiar%20with-blue?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Familiar%20with-blue?logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Familiar%20with-blue?logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-Familiar%20with-blue?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-Familiar%20with-blue?logo=c%2B%2B&logoColor=white)
