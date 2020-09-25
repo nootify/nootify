@@ -2,7 +2,7 @@
 
 I'm studying Computer Science at [NJIT](https://www.njit.edu) and graduating in Spring 2021!
 
-Software Engineering, Full-stack development
+Looking for Software Engineering, Full-stack developer full-time roles.
 
 #### Links 🔗
 <p>
@@ -33,7 +33,7 @@ Software Engineering, Full-stack development
 
 #### Environments 🌍
 ![Windows](https://img.shields.io/badge/Windows-Daily%20Driver-lightgrey?logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Daily%20Driver-lightgreylogo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Daily%20Driver-lightgrey?logo=linux&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-Daily%20Driver-lightgrey?logo=visual%20studio&logoColor=white)
 ![Cloud 9](https://img.shields.io/badge/Cloud%209-Familiar%20with-lightgrey?logo=amazon&logoColor=white)
 ![nano](https://img.shields.io/badge/nano-Familiar%20with-lightgrey?logo=gnu&logoColor=white)
