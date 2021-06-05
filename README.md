@@ -1,8 +1,6 @@
 ### Hi there <img src="https://www.nootify.net/favicon.ico" alt="noot noot">
 
-I'm studying Computer Science at [NJIT](https://www.njit.edu) and graduating in Spring 2021!
-
-Looking for full-time Software Engineering and Full-stack Developer roles.
+I graduated in Spring 2021 and looking for full-time Software Engineering and Full-stack Developer roles.
 
 #### Links 🔗
 <p>
