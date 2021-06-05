@@ -1,6 +1,6 @@
 ### Hi there <img src="https://www.nootify.net/favicon.ico" alt="noot noot">
 
-I graduated in Spring 2021 and looking for full-time Software Engineering and Full-stack Developer roles.
+I graduated in Spring 2021 and currently looking for full-time software engineering roles.
 
 #### Links 🔗
 <p>
