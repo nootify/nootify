@@ -2,13 +2,6 @@
 
 I graduated in Spring 2021 and currently looking for full-time software engineering roles.
 
-#### Links 🔗
-<p>
-  <a href="https://www.nootify.net"><img src="https://img.shields.io/badge/Website--_.svg?style=social" alt="Personal Website"></a>
-  <a href="https://github.com/nootify"><img src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github" alt="GitHub Profile"></a>
-  <a href="https://www.linkedin.com/in/echa"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn Profile"></a>
-</p>
-
 #### Languages 🖥️
 ![Python](https://img.shields.io/badge/Python-Daily%20Driver-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Proficient-blue?style=for-the-badge&logo=java&logoColor=white)
