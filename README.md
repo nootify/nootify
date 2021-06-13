@@ -21,7 +21,7 @@ I graduated in Spring 2021 and currently looking for full-time software engineer
 ![Discord.py](https://img.shields.io/badge/Discord.py-Familiar%20with-green?style=for-the-badge&logo=discord&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Familiar%20with-green?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-Familiar%20with-green?style=for-the-badge&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-Familiar%20with-green?style=for-the-badge&logo=vue-dot-js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-Familiar%20with-green?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-Familiar%20with-green?style=for-the-badge&logo=pandas&logoColor=white)
 
 #### Environments 🌍
