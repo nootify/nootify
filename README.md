@@ -1,6 +1,7 @@
 ### Hi there <img src="https://www.nootify.net/favicon.ico" alt="noot noot">
 
 Graduated Spring 2021
+
 Might look to join your software engineering team in the future 👀
 
 #### Languages 🖥️
