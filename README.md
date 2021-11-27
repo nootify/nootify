@@ -1,6 +1,7 @@
 ### Hi there <img src="https://www.nootify.net/favicon.ico" alt="noot noot">
 
-I graduated in Spring 2021 and currently looking for full-time software engineering roles.
+Graduated Spring 2021
+Might look to join your software engineering team in the future 👀
 
 #### Languages 🖥️
 ![Python](https://img.shields.io/badge/Python-Daily%20Driver-blue?style=for-the-badge&logo=python&logoColor=white)
