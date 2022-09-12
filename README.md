@@ -1,8 +1,6 @@
 ### Hi there <img src="https://www.nootify.net/favicon.ico" alt="noot noot">
 
-Graduated Spring 2021
-
-Might look to join your software engineering team in the future 👀
+This is a brief summary of my technical skillset and the things I know
 
 #### Languages 🖥️
 ![Python](https://img.shields.io/badge/Python-Daily%20Driver-blue?style=for-the-badge&logo=python&logoColor=white)
